@@ -34,14 +34,3 @@ Internship experience
 * May 2010- July 2010: R&D Intern
   * Indian Institute of Remote Sensing, Dehradun, India 
   * Job profile: Research on LIDAR waveforms denoising.
-
-
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
-
