@@ -1,10 +1,10 @@
 ---
-title: "tmp"
+title: "Semi-supervised and Task-Driven Data Augmentation"
 collection: publications
 permalink: /publication/2019-06-01-paper-title-number-3
-excerpt: 'This paper is about leveraging domain-knowledge into contrastive learning strategies used to pre-train for a good network initializaiton. Additionally, we devise a local loss, an extension of contrastive loss, that was found useful for segmentation tasks.'
+excerpt: 'This paper is about using GANs to generate augmented samples that are optimal for the task performance (segmenation here).'
 date: 2019-06-02
-venue: 'NeurIPS 2020 (34th Conference on Neural Information Processing Systems)'
+venue: 'IPMI 2019 (Information Processing on Medical Imaging)'
 paperurl: 'https://arxiv.org/abs/2006.10511.pdf'
 
 Citation: Chaitanya, K., Erdil, E., Karani, N. and Konukoglu, E., 2020. "Contrastive learning of global and local features for medical image segmentation with limited annotations." arXiv preprint arXiv:2006.10511.
