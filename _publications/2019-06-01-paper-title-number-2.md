@@ -7,7 +7,7 @@ date: 2019-06-02
 venue: 'IPMI 2019 (Information Processing on Medical Imaging)'
 paperurl: 'https://arxiv.org/pdf/1902.05396.pdf'
 
-Citation: Chaitanya K., Karani N., Baumgartner C. F., Becker A.,Donati O. and E. Konukoglu 2019. "Semi-supervised and Task-Driven Data Augmentation." arXiv preprint arXiv:1902.05396.
+Citation: Chaitanya K., Karani N., Baumgartner C. F., Becker A., Donati O. and E. Konukoglu 2019. "Semi-supervised and Task-Driven Data Augmentation." arXiv preprint arXiv:1902.05396.
 
 ---
 
