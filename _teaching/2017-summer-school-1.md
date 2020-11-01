@@ -1,5 +1,5 @@
 ---
-title: "EXCITE Summer School Workshop Organization (2017 - 2020)"
+title: "[EXCITE Summer School Workshop Organization (2017 - 2020)](href:https://excite.ethz.ch/education/summer-school.html)"
 collection: teaching
 type: "Summer School workshop"
 permalink: /teaching/2017-summer-school-1
