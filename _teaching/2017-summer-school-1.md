@@ -8,6 +8,6 @@ date: 2017-10-01
 location: "Zurich, Switzerland"
 ---
 
-EXCITE Summer School Workshop
+EXCITE Summer School Workshop (2017 - 2020)
 ======
 Conducted the workshop on Machine Learning and Deep Learning in the EXCITE Summer School workshop for graduate students from various universities in Europe along with colleagues in CVL.
