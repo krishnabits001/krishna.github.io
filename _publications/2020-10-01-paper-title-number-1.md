@@ -1,9 +1,9 @@
 ---
 title: "Contrastive learning of global and local features for medical image segmentation with limited annotations"
 collection: publications
-permalink: /publication/2020-12-01-paper-title-number-1
+permalink: /publication/2020-10-01-paper-title-number-1
 excerpt: 'This paper is about leveraging domain-knowledge into contrastive learning strategies used to pre-train for a good network initializaiton. Additionally, we devise a local loss, an extension of contrastive loss, that was found useful for segmentation tasks.'
-date: 2020-12-01
+date: 2020-10-01
 venue: 'NeurIPS 2020 (34th Conference on Neural Information Processing Systems)'
 paperurl: 'https://arxiv.org/abs/2006.10511.pdf'
 
