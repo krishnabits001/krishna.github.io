@@ -8,4 +8,4 @@ date: 2017-08-01
 location: "Zurich, Switzerland"
 ---
 
-TA for the course "Computer Vision" in Computer Vision and Geometry group
+TA for the course "Computer Vision" (Autumn 2017) in Computer Vision and Geometry group.
