@@ -7,7 +7,7 @@ date: 2019-06-02
 venue: 'NeurIPS 2020 (34th Conference on Neural Information Processing Systems)'
 paperurl: 'https://arxiv.org/abs/2006.10511.pdf'
 
-Citation: Chaitanya, K., Erdil, E., Karani, N. and Konukoglu, E., 2020. 'Contrastive learning of global and local features for medical image segmentation with limited annotations.' arXiv preprint arXiv:2006.10511.
+Citation: Chaitanya K., Erdil E., Karani N. and Konukoglu E., 2020. 'Contrastive learning of global and local features for medical image segmentation with limited annotations.' arXiv preprint arXiv:2006.10511.
 
 current arxiv bibtex citation: '@article{chaitanya2020contrastive,
   title={Contrastive learning of global and local features for medical image segmentation with limited annotations},
