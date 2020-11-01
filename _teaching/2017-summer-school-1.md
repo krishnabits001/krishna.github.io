@@ -4,7 +4,7 @@ collection: teaching
 type: "Summer School workshop"
 permalink: /teaching/2017-summer-school-1
 venue: "ETH Zurich, CVL"
-date: 2017 to 2020
+date: 2017-10-01 to 2020-10-01
 location: "Zurich, Switzerland"
 ---
 
