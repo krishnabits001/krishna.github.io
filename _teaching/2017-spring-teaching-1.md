@@ -8,6 +8,4 @@ date: 2017-08-01
 location: "Zurich, Switzerland"
 ---
 
-Teaching Assistant
-======
 TA for the course "Computer Vision" in Computer Vision and Geometry group
