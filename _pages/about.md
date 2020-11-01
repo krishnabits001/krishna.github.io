@@ -20,7 +20,7 @@ This problem is more relevant for deep learning algorithms applied to medical im
 For medical imaging, obtaining large datasets and corresponding annotations for each new task from clinical experts is expensive and time-consuming, and not a preferable solution in clinical settings.
 
 The focus of my PhD is to solve this problem and achieve high performance with deep learning algorithms using few annotations while leveraging unlabeled data for medical imaging tasks.
-My research topics broadly include: (a) Self-supervised learning, (b) Data Augmentation, (c) Semi-supervised learning.
+My research topics broadly include: (a) Self-supervised learning, (b) Data augmentation, (c) Semi-supervised learning.
 
 Bio
 ======
