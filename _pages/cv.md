@@ -25,7 +25,7 @@ Work experience
   * NXP Semiconductors, Bangalore, India 
   * Job profile: VLSI - RTL Design and Verification
 
-Internship experience
+Internships
 ======
 * Jan' 2012- Jun' 2012: Summer Intern 
   * Nvidia  Semiconductors, Bangalore, India 
