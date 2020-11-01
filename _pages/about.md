@@ -10,7 +10,7 @@ redirect_from:
 
 <style>body {text-align: justify}</style>
 
-I am pursuing my Doctoral (PhD) degree under the supervision of Prof. Ender Konukoglu with BioMedical Image Computing (BMIC(https://bmic.ee.ethz.ch/research.html)) group in the Compuer Vision Lab, ETH Zurich.
+I am pursuing my Doctoral (PhD) degree under the supervision of [Prof. Ender Konukoglu](http://www.vision.ee.ethz.ch/~kender/) with BioMedical Image Computing [BMIC](https://bmic.ee.ethz.ch/research.html) group in the [Compuer Vision Lab](http://www.vision.ee.ethz.ch/en/), ETH Zurich.
 
 
 Research Area
