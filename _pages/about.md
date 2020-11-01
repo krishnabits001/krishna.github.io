@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <style>body {text-align: justify}</style>
+
 I am a Doctoral (PhD) student at ETH Zurich in the Compuer Vision Lab under the supervision of Prof. Ender Konukoglu.
 
 
