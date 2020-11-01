@@ -2,7 +2,7 @@
 title: "Summer School Organization"
 collection: teaching
 type: "Summer School workshop"
-permalink: /teaching/2017-summer-teaching-2
+permalink: /teaching/2017-summer-school-1
 venue: "ETH Zurich, CVL"
 date: 2017 to 2020
 location: "Zurich, Switzerland"
