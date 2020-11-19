@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Electronics and Communications Engineering, BITS-Pilani Hyderabad Campus, 2012
+* B.E.(Hons). in Electronics and Communications Engineering, BITS-Pilani Hyderabad Campus, 2012
 * M.S. in Information Technology and Electrical Engineering, ETH Zurich, 2017
 * Ph.D with Computer Vision Lab , ETH Zurich, 2017 - Present 
 
 Work experience
 ======
-* 2013-2015: Digital Design Engineer
+* June 2013- July 2015: Digital Design Engineer
   * Intel Semiconductors, Bangalore, India 
   * Job profile: VLSI - RTL Design and Verification
 
-* 2012-2013: Digital Design Engineer
+* July 2012- May 2013: Digital Design Engineer
   * NXP Semiconductors, Bangalore, India 
   * Job profile: VLSI - RTL Design and Verification
 
