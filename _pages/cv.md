@@ -19,18 +19,18 @@ Work experience
 ======
 * June 2013- July 2015: Digital Design Engineer
   * Intel Semiconductors, Bangalore, India 
-  * Job profile: VLSI - RTL Design and SoC Verification
+  * Job profile: VLSI - Full chip and PCIe layers functional verification
 
 * July 2012- May 2013: Digital Design Engineer
   * NXP Semiconductors, Bangalore, India 
-  * Job profile: VLSI - RTL Design and SoC Verification
+  * Job profile: VLSI - SoC verification and RTL integration
 
 Internships
 ======
 * Jan' 2012- Jun' 2012: Intern 
   * Nvidia  Semiconductors, Bangalore, India 
-  * Job profile: VLSI Circuit Design
+  * Internship on VLSI Circuit Design
   
 * May 2010- July 2010: R&D Intern
   * Indian Institute of Remote Sensing, Dehradun, India 
-  * Job profile: Research on LIDAR waveforms denoising.
+  * Developed tools to denoise and estiamte height of features in simulated LIDAR terrain.
