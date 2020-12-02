@@ -11,12 +11,3 @@ Citation: Chaitanya K., Karani N., Baumgartner C.F., Erdil E., Becker A., Donati
 
 ---
 
-Bibtex arxiv citation: '@article{chaitanya2020contrastive,
-  title={Semi-supervised Task-driven Data Augmentation for Medical Image Segmentation},
-  author={Chaitanya, Krishna and Karani, Neerav and Baumgartner, Christian F and Erdil, Ertunc and Becker, Anton and Donati, Olivio and Konukoglu, Ender},
-  journal={arXiv preprint arXiv:2007.05363},
-  year={2020}
-}'
-
-[Download paper here](https://arxiv.org/abs/2007.05363.pdf)
-
