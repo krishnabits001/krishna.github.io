@@ -22,7 +22,7 @@ For medical imaging, obtaining large datasets and corresponding annotations for 
 The focus of my PhD is to solve this problem and achieve high performance with deep learning algorithms using few annotations while leveraging unlabeled data for medical imaging tasks.
 My research topics broadly include: (a) Self-supervised learning, (b) Data augmentation, (c) Semi-supervised learning.
 
-You can download my CV [here](https://drive.google.com/file/d/1LHGxupveocXDlEO1K-WUXvuC_TsKIpMQ/view?usp=sharing)
+Download my full CV [here](https://drive.google.com/file/d/1LHGxupveocXDlEO1K-WUXvuC_TsKIpMQ/view?usp=sharing)
 
 Bio
 ======

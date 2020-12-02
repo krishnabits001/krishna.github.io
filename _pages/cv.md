@@ -34,3 +34,5 @@ Internships
 * May 2010- July 2010: R&D Intern
   * Indian Institute of Remote Sensing, Dehradun, India 
   * Developed tools to denoise and estiamte height of features in simulated LIDAR terrain.
+
+Download my full CV [here](https://drive.google.com/file/d/1LHGxupveocXDlEO1K-WUXvuC_TsKIpMQ/view?usp=sharing)
