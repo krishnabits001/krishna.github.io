@@ -2,9 +2,9 @@
 title: "[Domain Adaptation and Representation Transfer (DART) workshop at MICCAI](https://sites.google.com/view/dart2020/)"
 collection: teaching
 type: "Workshop"
-venue: "MICCAI,NeuIPS,ICML"
-%date: 2020-10-01
-%location: "Lima, Peru (Virtual)"
+venue: "MICCAI"
+date: 2020-10-01
+location: "Lima, Peru (Virtual)"
 ---
 
 %title: "[Served as Program committee member for several medical imaging workshops]"
