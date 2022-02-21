@@ -10,7 +10,7 @@ redirect_from:
 
 <style>body {text-align: justify}</style>
 
-I am pursuing my Doctoral (PhD) degree under the supervision of [Prof. Ender Konukoglu](http://www.vision.ee.ethz.ch/~kender/) with BioMedical Image Computing [BMIC](https://bmic.ee.ethz.ch/research.html) group in the [Computer Vision Lab](http://www.vision.ee.ethz.ch/en/), ETH Zurich.
+Currently, I am a PostDoc at ETH Zurich and have obtained my Doctoral (PhD) degree under the supervision of [Prof. Ender Konukoglu](http://www.vision.ee.ethz.ch/~kender/) with BioMedical Image Computing [BMIC](https://bmic.ee.ethz.ch/research.html) group in the [Computer Vision Lab](http://www.vision.ee.ethz.ch/en/), ETH Zurich.
 
 
 Research Area
@@ -19,7 +19,7 @@ Humans can generalize to any given new task with few examples, while current dee
 This problem is more relevant for deep learning algorithms applied to medical image analysis tasks. 
 For medical imaging, obtaining large datasets and corresponding annotations for each new task from clinical experts is expensive and time-consuming, and not a preferable solution in clinical settings.
 
-The focus of my PhD is to solve this problem and achieve high performance with deep learning algorithms using few annotations while leveraging unlabeled data for medical imaging tasks.
+The focus of my PhD was to solve this problem and achieve high performance with deep learning algorithms using few annotations while leveraging unlabeled data for medical imaging tasks.
 My research topics broadly include: (a) Self-supervised learning, (b) Data augmentation, (c) Semi-supervised learning.
 
 Download my full CV [here](https://drive.google.com/file/d/1Wv4sYyWj0YxIS0eIKpB_uyMQmHREDlPi/view?usp=sharing)
