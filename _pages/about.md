@@ -24,6 +24,7 @@ My research topics broadly include: (a) Self-supervised learning, (b) Data augme
 
 Download my full CV [here](https://drive.google.com/file/d/1Wv4sYyWj0YxIS0eIKpB_uyMQmHREDlPi/view?usp=sharing)
 
+You can find the published articles on my google scholar page [Click here](https://scholar.google.com/citations?user=-uexBRMAAAAJ&hl=en)
 
 Bio
 ======
