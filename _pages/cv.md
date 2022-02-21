@@ -13,10 +13,14 @@ Education
 ======
 * B.E.(Hons). in Electronics and Communications Engineering, BITS-Pilani Hyderabad Campus, 2012
 * M.S. in Information Technology and Electrical Engineering, ETH Zurich, 2017
-* Ph.D with Computer Vision Lab , ETH Zurich, 2017 - Present 
+* Ph.D with Computer Vision Lab , ETH Zurich, Sept, 2017 - Feb, 2022
 
 Work experience
 ======
+* July' 2021- Dec' 2021: Research Internship
+  * Siemens Healthineers AG, Lausanne, Switzerland 
+  * Develop Deep learning based tools to automate medical image analysis task in CT imaging
+
 * June 2013- July 2015: Digital Design Engineer
   * Intel Semiconductors, Bangalore, India 
   * Job profile: VLSI - Full chip and PCIe layers functional verification
