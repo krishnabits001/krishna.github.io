@@ -31,4 +31,4 @@ Bio
 I have done my B. Tech, in Electronics and Communications from BITS-Pilani Hyderabad, India (2008-2012).
 After my bachelor's, I have worked for 3 years as a Digital Design Engineer in Intel India and NXP Semiconductors India in RTL design and verification (2012-2015).
 Post that, I have been at ETH Zurich, where I pursued my Masters in Information Technology and Electrical Engineering from 2015-2017.
-In 2017, I started my PhD degree program at ETH Zurich under the supervision of Prof. Ender Konukoglu.
+In 2017, I started my PhD degree program at ETH Zurich under the supervision of Prof. Ender Konukoglu and have successfully defended it in Feb, 2022.
